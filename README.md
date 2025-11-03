@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     
-   I'm currently learning: embedded systems development, full-stack web development, Linux, C++<br><br> 
-   Ask me about anything! Reach me at petersonn249@gmail.com or on LinkedIn! <br><br>
+   I'm currently learning: embedded systems development, full-stack web development, Linux, C++ <br> 
+   Ask me about anything! Reach me at petersonn249@gmail.com or on LinkedIn! <br>
    I love being active and exercising my brain!
   
 </p>
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 
 <p align = "center">
 
-  <strong>Team Projects: </strong><br>
+  <strong> Team Projects: </strong><br>
   StudyLink - Frontend Developer, Android Studio (Java)<br>
   NextStop - Full-Stack Web Developer, React, Node.js<br><br>
 
-  <strong>Languages: </strong>
-  2+ semesters: Java, C
-  1 semester: HTML, CSS, Javascript
-  High School/Personal: Python, C++
+  <strong> Languages: </strong><br>
+  2+ semesters: Java, C <br>
+  1 semester: HTML, CSS, Javascript <br>
+  High School/Personal: Python, C++ <br>
 
 </p>
 
