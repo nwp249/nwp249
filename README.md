@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h2 align = "center">Experiences</h2>
 
-<p align = "center>
+<p align = "center">
 
   <strong>Team Projects: </strong><br>
   StudyLink - Frontend Developer, Android Studio (Java)<br>
